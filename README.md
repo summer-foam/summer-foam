@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=210&color=0:171827,45:ff8ab3,100:5ce1e6&text=summer-foam%20%2F%2F%20Rhodes%20After%20School&fontAlign=50&fontAlignY=36&fontColor=f8f7ff&fontSize=34&desc=Lucky%20Star%20slice-of-life%20energy%20%C3%97%20Arknights%20terminal%20mood&descAlign=50&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=210&color=0:171827,45:ff8ab3,100:5ce1e6&text=summer-foam%20%2F%2F%20Rhodes%20After%20School&fontAlign=50&fontAlignY=36&fontColor=f8f7ff&fontSize=34&desc=Knights%20of%20the%20Ark&descAlign=50&descAlignY=58&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FF8AB3&center=true&vCenter=true&width=680&lines=Kagami-level+focus%2C+Konata-level+otaku+power.;Rhodes+Island+terminal+online.;Cute+UI%2C+solid+systems%2C+late-night+commits.)](https://git.io/typing-svg)
 
